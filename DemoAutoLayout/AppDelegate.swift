@@ -4,7 +4,7 @@
 //
 //  Created by Nguyễn Đức Hậu on 31/10/2024.
 //
-
+//FUNC COMMENT IN APP DELEGATE
 import UIKit
 
 @main
